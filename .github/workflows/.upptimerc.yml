@@ -1,10 +1,10 @@
 owner: BitByBitConsulting
 repo: upptime
-sites: # List of endpoints to track
+sites:
   - name: Google
     url: https://www.google.com
-assignees: # Users to assign downtime issues (optional)
-  - elibrody
+  - name: DuckDuckGo
+    url: https://duckduckgo.com
 status-website:
   baseUrl: /repo # where "repo" is your repository name
   name: Your Status Website
