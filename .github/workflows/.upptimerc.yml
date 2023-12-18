@@ -1,0 +1,10 @@
+owner: BitByBitConsulting
+repo: upptime
+sites: # List of endpoints to track
+  - name: Google
+    url: https://www.google.com
+assignees: # Users to assign downtime issues (optional)
+  - elibrody
+status-website: # Status website (optional)
+  cname: upptime.js.org # Custom domain CNAME
+  name: Upptime # Status website title
