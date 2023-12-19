@@ -12,7 +12,9 @@ sites:
   - name: BitByBit Support Relay
     url: https://relay.eblab.net
   - name: BitByBit Website
-    url: https://bitbybit.consulting
+    url: https://support.eblab.net/Bin/ConnectWiseControl.ClientSetup.exe?e=Access&y=Guest
+    expectedStatusCodes:
+      - 200
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
