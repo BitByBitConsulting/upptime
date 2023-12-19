@@ -9,10 +9,10 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: BitByBit Support
-    url: https://support.eblab.net
-  - name: Under Maint Site
-    url: https://thissitedoesnotexist.koj.com
+  - name: BitByBit Support Relay
+    url: https://relay.eblab.net
+  - name: BitByBit Website
+    url: https://bitbybit.consulting
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
