@@ -58,18 +58,20 @@
     "url": "https://support.eblab.net/Bin/ConnectWiseControl.ClientSetup.exe?e=Access&y=Guest",
     "icon": "https://icons.duckduckgo.com/ip3/support.eblab.net.ico",
     "slug": "bit-by-bit-support-relay",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 897,
-    "timeDay": 715,
-    "timeWeek": 897,
-    "timeMonth": 897,
-    "timeYear": 897,
-    "dailyMinutesDown": {}
+    "time": 2894,
+    "timeDay": 9795,
+    "timeWeek": 2894,
+    "timeMonth": 2894,
+    "timeYear": 2894,
+    "dailyMinutesDown": {
+      "2023-12-25": 0
+    }
   },
   {
     "name": "BitByBit Website",
