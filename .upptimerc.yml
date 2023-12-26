@@ -15,8 +15,8 @@ sites:
     url: https://bitbybit.consulting
     expectedStatusCodes:
       - 200
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: EONMSP Uptime Kuma
+    url: https://uptime.promarktech.co
 
 status-website:
   theme: night
