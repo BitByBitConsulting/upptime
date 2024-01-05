@@ -1,7 +1,7 @@
 url: https://support.eblab.net/Bin/ConnectWiseControl.ClientSetup.exe?e=Access&y=Guest
-status: up
-code: 200
-responseTime: 9292
-lastUpdated: 2024-01-05T15:41:37.080Z
+status: down
+code: 530
+responseTime: 78
+lastUpdated: 2024-01-05T23:12:54.196Z
 startTime: 2023-12-19T00:55:43.712Z
 generator: Upptime <https://github.com/upptime/upptime>
